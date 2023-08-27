@@ -1,0 +1,44 @@
+[
+  {
+    "month": "January",
+    "Volume of funding": 230,
+    "Mega deals": 0,
+    "Count of deals": 240
+  },
+  {
+    "month": "February",
+    "Volume of funding": 190,
+    "Mega deals": 400,
+    "Count of deals": 235
+  },
+  {
+    "month": "March",
+    "Volume of funding": 50,
+    "Mega deals": 0,
+    "Count of deals": 220
+  },
+  {
+    "month": "April",
+    "Volume of funding": 120,
+    "Mega deals": 0,
+    "Count of deals": 210
+  },
+  {
+    "month": "May",
+    "Volume of funding": 80,
+    "Mega deals": 270,
+    "Count of deals": 200
+  },
+  {
+    "month": "June",
+    "Volume of funding": 240,
+    "Mega deals": 0,
+    "Count of deals": 350
+  },
+  {
+    "month": "July",
+    "Volume of funding": 140,
+    "Mega deals": 0,
+    "Count of deals": 150
+  }
+]
