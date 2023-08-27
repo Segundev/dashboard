@@ -1,5 +1,5 @@
 <script>
-  import data from "../lib/columnData.json";
+  import data from "../lib/ColumnData.json";
 
   // import d3 dependencies
   import { scaleLinear } from "d3-scale";
