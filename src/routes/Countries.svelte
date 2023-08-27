@@ -1,5 +1,5 @@
 <script>
-  import world from "../lib/MapData.js";
+  import world from "../lib/MapData.json";
   import * as topojson from "topojson-client";
   import * as topojsonServer from "topojson-server";
   import { geoCentroid, geoPath } from "d3-geo";
