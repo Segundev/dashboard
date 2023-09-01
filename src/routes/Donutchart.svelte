@@ -61,7 +61,7 @@
         <path
           role="listitem"
           tabindex="0"
-          aria-label="{d.data[0]} was at {d.data[1]}%"
+          aria-label="{d.data[0]} made up {d.data[1]}%"
           d={arcs(d)}
           fill={color(d.data[1])}
           opacity="0.9"

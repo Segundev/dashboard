@@ -85,7 +85,7 @@
         <rect
           role="listitem"
           tabindex="0"
-          aria-label="{d.startup} got {d.value} million dollar Investors funding"
+          aria-label="{d.startup} got {d.value} million dollar in investor funding"
           x={xScale(d.startup)}
           y={yScale(d.value)}
           width={xScale.bandwidth()}

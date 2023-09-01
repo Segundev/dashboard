@@ -29,13 +29,13 @@
 
 <div class="chartWrapper" bind:clientWidth={width} role="figure" tabindex="0">
   <svg {width} {height} transform="translate({margin.left}, {0})">
-    <title> Treemap showing Sectors breakdown</title>
+    <title> Treemap showing Sector breakdown</title>
     <g role="list" tabindex="0" aria-label="Tree map">
       {#each root.leaves() as d}
         <rect
           role="listitem"
           tabindex="0"
-          aria-label="{d.data.name} Industry had {d.data.value}%"
+          aria-label="{d.data.name} sector made up {d.data.value}%"
           x={d.x0}
           y={d.y0}
           width={d.x1 - d.x0}
